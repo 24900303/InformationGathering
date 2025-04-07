@@ -38,11 +38,19 @@ Finding Hosting Company and get further detail by using ip2location.com website.
 ![image](https://github.com/user-attachments/assets/fd987fa5-e1fc-4289-950b-e81de35019a6)
 ## History of the website:
 https://web.archive.org/
-![Screenshot 2025-03-24 140113](https://github.com/user-attachments/assets/0cb4a348-005a-462c-a25a-b647d7468574)
+![Screenshot 2025-03-24 140113](https://github.com/user-attachments/assets/0cb4a348-005a-462c-a25a-b647d74
+68574)
 ## Webserver Fingerprinting:
 # Netcat:
-
-
+![Screenshot 2025-04-07 133712](https://github.com/user-attachments/assets/4afa5850-99ab-438a-9ac6-3818bb6b5330)
+# nmap:
+![Screenshot 2025-04-07 134241](https://github.com/user-attachments/assets/3a5193b5-12fc-412d-8b3d-cba84c3551cb)
+# Whatweb:
+![Screenshot 2025-04-07 134751](https://github.com/user-attachments/assets/5acf5817-babd-4374-929a-15386e47338a)
+# httprint:
+![image](https://github.com/user-attachments/assets/1bba7096-656b-4de5-9a0b-ca3948330186)
+## Tracing the loaction:
+# TCP :
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
