@@ -50,7 +50,12 @@ https://web.archive.org/
 # httprint:
 ![image](https://github.com/user-attachments/assets/1bba7096-656b-4de5-9a0b-ca3948330186)
 ## Tracing the loaction:
-# TCP :
+# TCP Traceroute :
+![image](https://github.com/user-attachments/assets/026130a6-db28-4585-b0b3-23778bb54934)
+# UDP Traceroute :
+![image](https://github.com/user-attachments/assets/af0dd51e-1b99-412a-832e-bd62c03cf3b1)
+# ICMP Traceroute :
+![image](https://github.com/user-attachments/assets/ea4071bb-7fe2-4930-a236-dbe64a55bc53)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
